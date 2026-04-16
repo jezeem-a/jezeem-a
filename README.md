@@ -12,7 +12,7 @@ current_role: Mobile Application Engineer
 
 specialties: React Native, Flutter, AI-Native Building, UX Animations
 
-Self-Taught Mobile Engineer
+Self-Taught Software Engineer
 
 🚀 Projects & Contributions
 
