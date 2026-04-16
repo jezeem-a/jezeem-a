@@ -16,8 +16,7 @@ Self-Taught Mobile Engineer
 
 🚀 Projects & Contributions
 
-📦 mavengang-mcp
-MCP server connecting AI coding assistants to MavenGang project management API for Incredible Visibility Solutions Pvt Ltd.
+📦 mavengang-mcp: MCP server connecting AI coding assistants to MavenGang project management API for Incredible Visibility Solutions Pvt Ltd.
 
 📊 GitHub Insights
 
